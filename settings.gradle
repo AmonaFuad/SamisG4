@@ -1,0 +1,2 @@
+rootProject.name='SamisG4'
+include ':app'
